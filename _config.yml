@@ -23,3 +23,11 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
+
+# If you want to link only specific pages in your header, use this and add the path to the pages
+# in order as they should show up.
+header_pages:
+  - about.md
+  - games.md
+  - projects.md
+  - blog.md
