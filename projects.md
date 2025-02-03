@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Projects
 ---
 <h1>Projects</h1>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: Games
 ---
 <h1>Experience</h1>
