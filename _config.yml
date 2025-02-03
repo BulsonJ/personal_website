@@ -14,7 +14,7 @@ minima:
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jack-b-2a4195115/" }
 
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Build settings
 baseurl: /minima
