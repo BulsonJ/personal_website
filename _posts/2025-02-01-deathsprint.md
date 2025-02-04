@@ -5,7 +5,19 @@ category: games
 ---
 <img class="heading_image" src="/assets/images/games/deathsprint.png" alt=""/>
 
-I will share more details in the future after it's released.
+<hr>
+
+I worked as a **Gameplay Programmer** on **DeathSprint 66** from December 2022 to September 2023.
+
+I was part of the Bachman Racing Prototype Team, which meant I was on the project before it went into full production.
+
+I was responsible for:
+- Implementing the ideas for a feature team, prototyping gameplay elements that did not make it into the final release
+- Working with Level Design to create different level ingredients that they needed
+- Implementing some fairly straightforward UI, such as an in-game leaderboard
+- Fixing general gameplay bugs that appeared
+
+<hr>
 
 <iframe class="large" src="https://www.youtube.com/embed/9jfG0Ez6etU?si=JlaQsPr8YDh7dFUz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
