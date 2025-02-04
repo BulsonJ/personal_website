@@ -8,3 +8,5 @@ category: games
 I will share more details in the future after it's released.
 
 <iframe class="large" src="https://www.youtube.com/embed/eAI0tRRipt0?si=OeRUFiCTcxahiNRT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://store.steampowered.com/app/2367610/Critter_Caf/
