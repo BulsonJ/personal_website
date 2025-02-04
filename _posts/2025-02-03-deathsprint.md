@@ -3,7 +3,6 @@ layout: post
 title:  "DeathSprint 66"
 category: games
 ---
-
 ![keyart](/assets/images/games/deathsprint.png)
 
 I will share more details in the future after it's released.
