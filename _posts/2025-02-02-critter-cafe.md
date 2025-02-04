@@ -51,6 +51,7 @@ My responsibilities included:
     </figcaption>
     <div class="figcontent">
         <div>
+        <img src="/assets/images/games/critter_cafe/wing_clips.jpg" alt="">
         </div>
      </div>
 </figure>
