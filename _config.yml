@@ -17,7 +17,6 @@ minima:
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Build settings
-url:https://jackbulson.dev
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
