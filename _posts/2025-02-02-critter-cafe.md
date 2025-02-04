@@ -48,4 +48,6 @@ My responsibilities included:
 
 <iframe class="large" src="https://www.youtube.com/embed/eAI0tRRipt0?si=OeRUFiCTcxahiNRT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe src="https://store.steampowered.com/widget/2367610/" frameborder="0" width="646" height="190"></iframe>
+<hr>
+
+<iframe class="small" src="https://store.steampowered.com/widget/2367610/" frameborder="0" width="646" height="190"></iframe>
