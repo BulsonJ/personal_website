@@ -20,7 +20,7 @@ $lm-text-color:            #111111 !default;
 $lm-background-color:      #fdfdfd !default;
 $lm-code-background-color: #eeeeff !default;
 
-$lm-link-base-color:       #2a7ae2 !default;
+$lm-link-base-color:       rgb(206, 23, 23) !default;
 $lm-link-visited-color:    darken($lm-link-base-color, 15%) !default;
 $lm-link-hover-color:      $lm-text-color !default;
 
@@ -52,7 +52,7 @@ $lm-table-border-color:    $lm-border-color-01 !default;
     .gd .x { color: #000; background-color: #faa } // Generic.Deleted.Specific
     .ge    { font-style: italic } // Generic.Emph
     .gr    { color: #a00 } // Generic.Error
-    .gh    { color: #999 } // Generic.Heading
+    .gh    { color: #b40d0d } // Generic.Heading
     .gi    { color: #000; background-color: #dfd } // Generic.Inserted
     .gi .x { color: #000; background-color: #afa } // Generic.Inserted.Specific
     .go    { color: #888 } // Generic.Output
@@ -116,7 +116,7 @@ $dm-text-color:            #bbbbbb !default;
 $dm-background-color:      #181818 !default;
 $dm-code-background-color: #212121 !default;
 
-$dm-link-base-color:       #79b8ff !default;
+$dm-link-base-color:       rgb(206, 23, 23) !default;
 $dm-link-visited-color:    $dm-link-base-color !default;
 $dm-link-hover-color:      $dm-text-color !default;
 
@@ -152,7 +152,7 @@ $dm-table-border-color:    $dm-border-color-01 !default;
     .gd .x { color: #000; background-color: #faa } // Generic.Deleted.Specific
     .ge    { font-style: italic } // Generic.Emph
     .gr    { color: #f07178 } // Generic.Error
-    .gh    { color: #999 } // Generic.Heading
+    .gh    { color: #b40d0d } // Generic.Heading
     .gi    { color: #000; background-color: #dfd } // Generic.Inserted
     .gi .x { color: #000; background-color: #afa } // Generic.Inserted.Specific
     .go    { color: #888 } // Generic.Output
