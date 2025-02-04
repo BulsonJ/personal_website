@@ -10,11 +10,11 @@ category: games
 I worked as a **Gameplay Programmer** on **Critter Cafe** from September 2023 to December 2024.
 
 My responsibilities included:
-- Implementing the three tools the character can use, the Hammer, the Boomerang and the WingClips. This involved working with design & animation to make them work, make them feel good and make them look good.
-- Implementing various level ingredients to be used within the Rescue Levels. This involved consistent communication with level design & art to ensure that pieces worked functionally and aesthetically.
-- Implementing the initial version of the Open For Trade activity as well as the Pouring Coffee minigame.
-- Learning more about Unreal's collision system to improve our projects setup and usage of collision presets & responses to ensure correct behaviour
-- Fixing Steam Deck specific bugs towards the end of the project to ensure we would be verified on Steam Deck
+- Implemented the three tools the character can use, the Hammer, the Boomerang and the WingClips. This involved working with design & animation to make them work, make them feel good and make them look good.
+- Implemented various level ingredients to be used within the Rescue Levels. This involved communication with level design & art to ensure that pieces worked functionally and aesthetically.
+- Implemented the initial version of the Open For Trade activity as well as the Pouring Coffee minigame.
+- Learnt more about Unreal's collision system to improve how we set our project up, and fixed our usage of collision presets & responses to ensure correct behaviour
+- Fixed Steam Deck specific bugs towards the end of the project to ensure we would be verified on Steam Deck
 
 <hr>
 
