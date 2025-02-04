@@ -10,3 +10,7 @@ I've been playing games all my life, and have always wanted to work in the games
 In my four years at university, I gained a large amount of experience programming in C++, C#, GDScript and Java. For my third year I decided to specialise in video games, where I learned about how video games are programmed. It was in this year that I thoroughly enjoyed learning about rendering technologies such as OpenGL and Vulkan, and we were even given the chance to use GNM with a PS4 Devkit.
 
 I have a passion for working on creating fun and enjoyable gameplay experiences. In addition to gameplay programming, I also enjoy learning about the rendering pipeline & processes, as well as programming materials & shaders. I enjoy working across multiple disciplines to solve various problems that crop up during development.
+
+# CV
+
+<iframe class="pdf" src="/assets/files/cv.pdf">
