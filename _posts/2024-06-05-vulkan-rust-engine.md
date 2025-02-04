@@ -3,7 +3,8 @@ layout: post
 title:  "Vulkan Rust Game Engine"
 category: project
 ---
-![Engine](/assets/images/vulkan/rustengine.png)
+
+<img class="heading_image" src="/assets/images/vulkan/rustengine.png" alt=""/>
 
 After my dissertation was finished, I had learnt the basic of Vulkan. I started working on my own renderer and game engine using C++. 
 However, I started learning Rust and found many of it's features nice to use, and found the development process very convenient, so I 
@@ -21,17 +22,17 @@ Features:
 This was the biggest personal project that I have worked on thus far. Initially I was just going to make a Renderer, but pivoted towards making a simple plane game. After getting busier at work, I placed the project on hold, but you can see the results below:
 
 Showcase:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YvuSozLz2Ls?si=wz043gpAYrZJz-1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="large" src="https://www.youtube.com/embed/YvuSozLz2Ls?si=wz043gpAYrZJz-1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Reloadable Shaders:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8ndSdJrnvRk?si=tIP7pyJXoFUndc0L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="large" src="https://www.youtube.com/embed/8ndSdJrnvRk?si=tIP7pyJXoFUndc0L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Lighting & Shadows:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RwFS4GX6STQ?si=5j57xjiMvAMQiHTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="large"src="https://www.youtube.com/embed/RwFS4GX6STQ?si=5j57xjiMvAMQiHTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Particles (2D & 3D):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d0zJSWPXQaQ?si=_QS3zfPNxDQ3HX7y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IzAv00Y4xRo?si=K3shU0qNRLg70OhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="small" src="https://www.youtube.com/embed/d0zJSWPXQaQ?si=_QS3zfPNxDQ3HX7y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="small" src="https://www.youtube.com/embed/IzAv00Y4xRo?si=K3shU0qNRLg70OhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![Bloom](/assets/images/vulkan/bloom.png)
 

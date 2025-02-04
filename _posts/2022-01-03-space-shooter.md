@@ -3,7 +3,7 @@ layout: post
 title:  "Untitled Space Shooter"
 category: project
 ---
-![Untitled Space Shooter](/assets/images/20210915_space_shooter.png)
+<img class="heading_image" src="/assets/images/20210915_space_shooter.png" alt=""/>
 
 Untitled Space Shooter was a game that I was developing in my spare time as a personal project from September to November 2021.
 

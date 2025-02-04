@@ -1,10 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-Hi there! My name is Jack Bulson, I am currently a Gameplay Programmer at Sumo Digital. I have worked on numerous projects in my time here, such as Critter Cafe and DeathSprint 66. I'm using this website to showcase my projects and creations.
+Hi there! My name is **Jack Bulson**, I am currently a Gameplay Programmer at Sumo Digital. I have worked on numerous projects in my time here, such as Critter Cafe and DeathSprint 66. I'm using this website to showcase my projects and creations.
 
 I've been playing games all my life, and have always wanted to work in the games industry. I started programming when I was about 12, using GameMaker to create simple games. From then on, I went on to create lots of small 2D games, and started creating simple mods for games such as Minecraft. 
 

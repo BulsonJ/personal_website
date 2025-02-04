@@ -1,14 +1,35 @@
 ---
 ---
 
+img.heading_image {
+  width: 100%;
+  height: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+iframe.small {
+  width: 100%;
+  height: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+iframe.large {
+  width: 50%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-img {
-  .centered {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
+strong {
+  font-weight: bold;
+  color: rgb(145, 16, 16);
 }

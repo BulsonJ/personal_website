@@ -106,7 +106,7 @@ $lm-table-border-color:    $lm-border-color-01 !default;
 // Dark mode
 // ---------
 
-$dm-brand-color:           rgb(206, 23, 23) !default;
+$dm-brand-color:           rgb(145, 16, 16) !default;
 $dm-brand-color-light:     lighten($dm-brand-color, 5%) !default;
 $dm-brand-color-dark:      darken($dm-brand-color, 35%) !default;
 
@@ -116,7 +116,7 @@ $dm-text-color:            #bbbbbb !default;
 $dm-background-color:      #181818 !default;
 $dm-code-background-color: #212121 !default;
 
-$dm-link-base-color:       rgb(206, 23, 23) !default;
+$dm-link-base-color:       $dm-brand-color-light !default;
 $dm-link-visited-color:    $dm-link-base-color !default;
 $dm-link-hover-color:      $dm-text-color !default;
 
@@ -157,7 +157,7 @@ $dm-table-border-color:    $dm-border-color-01 !default;
     .gi .x { color: #000; background-color: #afa } // Generic.Inserted.Specific
     .go    { color: #888 } // Generic.Output
     .gp    { color: #555 } // Generic.Prompt
-    .gs    { font-weight: bold } // Generic.Strong
+    .gs    { color: #b40d0d; font-weight: bold } // Generic.Strong
     .gu    { color: #aaa } // Generic.Subheading
     .gt    { color: #f07178 } // Generic.Traceback
     .kc    { font-weight: bold } // Keyword.Constant

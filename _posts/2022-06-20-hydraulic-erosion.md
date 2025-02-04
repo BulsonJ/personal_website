@@ -4,7 +4,7 @@ title:  "Hydraulic Erosion"
 category: project
 ---
 
-![results](/assets/images/dissertation/results.png){:.centered}
+<img class="heading_image" src="/assets/images/dissertation/results.png" alt=""/>
 
 After creating a basic Vulkan renderer earlier in the year, I decided to use it for my final year dissertation project, in which I wanted to simulate hydraulic erosion. Previously, I had created a infinite procedural terrain generator, but this year I wanted to focus more on the quality of a small chunk of terrain.
 

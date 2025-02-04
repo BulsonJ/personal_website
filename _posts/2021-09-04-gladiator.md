@@ -3,7 +3,7 @@ layout: post
 title:  "Gladiator"
 category: project
 ---
-![Gladiator](/assets/images/gladiator_main.png)
+<img class="heading_image" src="/assets/images/gladiator_main.png" alt=""/>
 
 Gladiator is a game I created in my 3rd year of university for my "Game Development" module. We were tasked with creating a prototype and then a full version of a game entirely created ourselves.
 
