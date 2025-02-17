@@ -4,6 +4,8 @@ title:  "University Graphics"
 category: project
 ---
 
+<iframe class="large" src="https://www.youtube.com/embed/gx8T80bnTCk?si=uHj4srhI8wh-t61I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Team Project
 
 This module consisted of 8 of us working together to create a game. We had just under 2 months to prototype & then create a game in C++, building on top of our previous modules base code. For this project, I was responsible for building a **High-Level Rendering API** that we could use on PC and PS4 and supporting the rest of the team with any graphics problems.
@@ -14,8 +16,6 @@ This module consisted of 8 of us working together to create a game. We had just 
     - Implemented basic lighting, UI, asset loading, painting mechanic on PS4
 - Supported another team member to implement the **painting** gameplay
 - Implemented menu flow
-
-<iframe class="large" src="https://www.youtube.com/embed/gx8T80bnTCk?si=uHj4srhI8wh-t61I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Graphics Module
 The second module I completed at University was Advanced Graphics for Games. For this module, we initially learnt the basics of rendering and using **OpenGL**, and then we were tasked with creating a graphics scene of a tropical island, and implementing different graphical features to increase the fidelity of the scene.
