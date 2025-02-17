@@ -6,7 +6,7 @@ category: project
 
 <img class="heading_image" src="/assets/images/vulkan/rendererInitial.png" alt=""/>
 
-Throughout my final year of university I've been heavily involved in Graphics programming. After using OpenGL and GNM in some of my modules, I've decided to create my own Vulkan renderer. Previously, I've built on top of a base level framework provided to me by the University that has already got lots of functionality. However, this time, I would like to add lots of that functionality myself.
+Throughout my final year of university I've been heavily involved in Graphics programming. After using **OpenGL** and **GNM** in some of my modules, I've decided to create my own **Vulkan** renderer. Previously, I've built on top of a base level framework provided to me by the University that has already got lots of functionality. However, this time, I would like to add lots of that functionality myself.
 
 My main goals for this project are as such:
 - Explore Vulkan and modern graphics API concepts

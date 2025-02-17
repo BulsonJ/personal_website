@@ -46,7 +46,7 @@ My project consists of three parts:
 ## Game
 All the game specific logic is handled within this.
 
-egui integration is handled at this level and uses the public renderer API to be drawn. Allows for it to be easily removed if not necessary.
+**egui integration** is handled at this level and uses the public renderer API to be drawn. Allows for it to be easily removed if not necessary.
 
 ## Engine
 Contains timing and asset management logic. 
@@ -66,7 +66,7 @@ For each Mesh there is one draw command to draw all of the meshes, since current
 Public UI interface simply takes in a struct containing vertices and indices, an ImageHandle and a scissor. Needs to be pushed to the Renderer every frame.
 
 ### RenderList
-RenderList abstracts RenderPass building away. My simplified version of a RenderGraph as the ordering has to be specified by the user.
+**RenderList** abstracts **RenderPass** building away. My **simplified** version of a RenderGraph as the ordering has to be specified by the user.
 Attachments and RenderPasses are referred to by String.
 DrawCommands are generated for models, particles etc, which are then used in each pass to render them all.
 
