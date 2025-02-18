@@ -3,9 +3,9 @@ layout: home
 ---
 
 
-Hi there! My name is **Jack Bulson**, I am currently a Gameplay Programmer at Sumo Digital. I have just under **3 years professional experience** working as a **Gameplay Programmer**, primarily in Unreal Engine. 
+Hi there! My name is **Jack Bulson**, I am currently a Gameplay Programmer at Sumo Digital. I have just under **3 years professional experience** working as a **Gameplay Programmer**, primarily in Unreal Engine with C++. 
 
-I have a passion for working on creating fun and enjoyable gameplay experiences. I also enjoy learning about the rendering pipeline & processes, as well as programming materials & shaders.
+I have a passion for graphics programming, learning about the rendering pipeline as well as programming materials & shaders. In addition, I enjoy creating fun gameplay mechanics, and working with designers and other disciplines to create the best experience we can for players.
 
 I previously worked on [Critter Cafe]({% post_url 2025-02-02-critter-cafe %}) and [DeathSprint 66]({% post_url 2025-02-01-deathsprint %}). I graduated from my MComp in Games Engineering course from Newcastle University in 2024 with a 1st class result.
 
