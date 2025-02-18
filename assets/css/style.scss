@@ -33,15 +33,6 @@ iframe.pdf {
   aspect-ratio: 0.707;
 }
 
-figure {
-  padding-left: 5%;
-  padding-right: 5%;
-}
-
-figure-title {
-  color: grey
-}
-
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
@@ -49,4 +40,13 @@ figure-title {
 strong {
   font-weight: bold;
   color: $site-title-color;
+}
+
+figure {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+figure-title {
+  color: grey
 }

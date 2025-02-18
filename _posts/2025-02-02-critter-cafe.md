@@ -20,67 +20,81 @@ My responsibilities included:
 
 ## Media
 
+### Hammer
 <figure>
-    <figcaption>
-        <p class="figure-title">Hammer</p>
-        <p>The Hammer was the first tool we made. You could do a basic swing, hold it for a circular swing, or if you had the powerup, hold it for an overhead smash attack.</p>
-    </figcaption>
     <div class="figcontent">
         <div> 
         <img src="/assets/images/games/critter_cafe/hammer.jpg" altenabled="">
         </div>
      </div>
+         <figcaption>
+        <p class="figure-title">Hammer</p>
+    </figcaption>
 </figure>
 
+The Hammer was the first tool we made. You could do a basic swing, hold it for a circular swing, or if you had the powerup, hold it for an overhead smash attack.
+
+### Boomerang
+
 <figure>
-    <figcaption>
-        <p class="figure-title">Boomerang</p>
-        <p>The boomerang was the second tool to be developed. We had an aiming/chargeup phase with an aiming indicator, and once released the boomerang could be thrown.</p>
-    </figcaption>
     <div class="figcontent">
         <div> 
         <img src="/assets/images/games/critter_cafe/boomerang_aim_indicator.jpg" alt="">
         </div>
      </div>
+    <figcaption>
+        <p class="figure-title">Boomerang</p>
+    </figcaption>
 </figure>
 
+The boomerang was the second tool to be developed. We had an aiming/chargeup phase with an aiming indicator, and once released the boomerang could be thrown.
+
+### WingClips
+
 <figure>
-    <figcaption>
-        <p class="figure-title">Wing Clips</p>
-        <p>The Wing Clips enabled you to use the JumpPads to Jump. They could be charged to Jump further if you had the PowerUp. We had two variations of the JumpPads, horizontal and vertical.</p>
-    </figcaption>
     <div class="figcontent">
         <div>
         <img src="/assets/images/games/critter_cafe/wing_clips.jpg" alt="">
         </div>
      </div>
+    <figcaption>
+        <p class="figure-title">Wing Clips</p>
+    </figcaption>
 </figure>
 
+The Wing Clips enabled you to use the JumpPads to Jump. They could be charged to Jump further if you had the PowerUp. We had two variations of the JumpPads, horizontal and vertical.
+
+### Level Ingredients
+
 <figure>
-    <figcaption>
-        <p class="figure-title">Level Ingredients</p>
-        <p>We had a variety of level ingredients. I primarily implemented the blocks, gates and switches, and the initial implementation of the amber we used to encase these ingredients.</p>
-    </figcaption>
     <div class="figcontent">
         <div> 
         <img src="/assets/images/games/critter_cafe/blocks.jpg" alt="">
         <iframe class="large" src="https://www.youtube.com/embed/LcscPhz-tQw" title="Critter Café | Quillpuff Rescue Puzzle Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
      </div>
+    <figcaption>
+        <p class="figure-title">Level Ingredients</p>
+    </figcaption>
 </figure>
 
+We had a variety of level ingredients. I primarily implemented the blocks, gates and switches, and the initial implementation of the amber we used to encase these ingredients.
+
+### MiniGames
+
 <figure>
-    <figcaption>
-        <p class="figure-title">Pouring Coffee MiniGame</p>
-        <p>This was the first minigame we made in order to create a first playable version of the Open For Trade activity. I revisited this minigame later on in the project where we added multiple steps to the pouring as the difficulty increased.</p>
-    </figcaption>
     <div class="figcontent">
         <div> 
         <img src="/assets/images/games/critter_cafe/pouring_coffee.png" alt="">
         <img src="/assets/images/games/critter_cafe/pouring_coffee_hard.png" alt="">
         </div>
      </div>
+    <figcaption>
+        <p class="figure-title">Pouring Coffee MiniGame</p>
+    </figcaption>
 </figure>
+
+This was the first minigame we made in order to create a first playable version of the Open For Trade activity. I revisited this minigame later on in the project where we added multiple steps to the pouring as the difficulty increased.
 
 <hr>
 
