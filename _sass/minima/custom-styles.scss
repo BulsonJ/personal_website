@@ -1,2 +1,49 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+
+img.heading_image {
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+iframe.small {
+    width: 50%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    aspect-ratio: 1.78;
+}
+  
+iframe.large {
+  width: 100%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  aspect-ratio: 1.78;
+}
+
+iframe.pdf {
+  width: 100%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  aspect-ratio: 0.707;
+}
+
+figure {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.figure-title {
+  color: grey;
+}
+
+strong {
+  font-weight: bold;
+  color: $site-title-color;
+}
