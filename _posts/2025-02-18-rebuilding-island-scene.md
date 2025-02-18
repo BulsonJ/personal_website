@@ -17,11 +17,11 @@ category: blog
 
 I previously built my [game engine]({% post_url 2024-06-05-vulkan-rust-engine %}) in Rust. 2 years on, I've been using C++ professionally for 3 years now and I feel much more confident in my ability to work the language. Instead of tripping overmyself (and the borrow checker), I've decided to rebuild my graphics projects in C++. My first showcase is to be an Island scene.
 
-# Motivation
+## Motivation
 
 Just over 3 years ago, I was at University where I first learnt about graphics. We had to create an island scene using OpenGL and that's what led me on my graphics journey. I thought this rebuild of my code would be a great opportunity to test myself to rebuild that scene(or something akin to it). Vulkan has been a great learning experience but I've found myself on the side of engineering architecture more than any actual scenes to be impressed by. 
 
-# What graphics features will I be implementing?
+## What graphics features will I be implementing?
 
 For this scene, the goals are:
 - Instanced rendering
@@ -33,7 +33,7 @@ For this scene, the goals are:
 - Foliage (Trees + Grass, probably w/ a wind shader)
 - 2D Particles (Campfire?)
 
-# What have I got so far?
+## What have I got so far?
 
 Currently, I'm still in the process of piecing what I had back together. So the most impressive thing, instanced rendering! I'm using bindless to simplify descriptor set management.
 
