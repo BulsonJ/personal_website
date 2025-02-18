@@ -4,8 +4,6 @@ title:  "Rebuilding my Island Scene from University"
 category: blog
 ---
 
-I previously built my [game engine]({% post_url 2024-06-05-vulkan-rust-engine %}) in Rust. 2 years on, I've been using C++ professionally for 3 years now and I feel much more confident in my ability to work the language. Instead of tripping overmyself (and the borrow checker), I've decided to rebuild my graphics projects in C++. My first showcase is to be an Island scene.
-
 <figure>
     <div class="figcontent">
         <div> 
@@ -13,10 +11,11 @@ I previously built my [game engine]({% post_url 2024-06-05-vulkan-rust-engine %}
         </div>
      </div>
       <figcaption>
-        <p class="figure-title">Horizon Forbidden West Concept Art</p>
-        <p>Erik van Helvoirt – Concept Artist – Guerrilla</p>
+        <p class="figure-title">Horizon Forbidden West Concept Art(Erik van Helvoirt – Concept Artist – Guerrilla)</p>
     </figcaption>
 </figure>
+
+I previously built my [game engine]({% post_url 2024-06-05-vulkan-rust-engine %}) in Rust. 2 years on, I've been using C++ professionally for 3 years now and I feel much more confident in my ability to work the language. Instead of tripping overmyself (and the borrow checker), I've decided to rebuild my graphics projects in C++. My first showcase is to be an Island scene.
 
 # Motivation
 
@@ -24,13 +23,12 @@ Just over 3 years ago, I was at University where I first learnt about graphics. 
 
 # What graphics features will I be implementing?
 
-For the original island scene, I ended up with a deferred renderer that had real-time shadows from light sources(Pointlight + Spotlights + Directional light), a day/night cycle, and terrain & water shaders. 
-
 For this scene, the goals are:
 - Instanced rendering
 - Deferred rendering
+- PBR
 - Water shader (Foam, Refraction, SSR)
-- Real-time shadows (Directional w/ CSM + Pointlights. Unsure about spotlights)
+- Real-time shadows (Directional w/ CSM + Pointlights)
 - Day/Night cycle
 - Foliage (Trees + Grass, probably w/ a wind shader)
 - 2D Particles (Campfire?)
