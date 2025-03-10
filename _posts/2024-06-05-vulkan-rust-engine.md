@@ -11,7 +11,7 @@ However, I started learning Rust and found many of it's features nice to use, an
 decided to switch to using it.
 
 Features:
-- PBR Lighting
+- Blinn-phong Lighting
 - Basic Shadows
 - Bloom
 - Bindless Rendering
