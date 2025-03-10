@@ -4,7 +4,7 @@ title:  "Vulkan Rust Game Engine"
 category: project
 ---
 
-<img class="heading_image" src="/assets/images/vulkan/rustengine.png" alt=""/>
+<img class="heading_image" src="/assets/images/vulkan/bloom.png" alt=""/>
 
 After my dissertation was finished, I had learnt the basic of Vulkan. I started working on my own renderer and game engine using C++. 
 However, I started learning Rust and found many of it's features nice to use, and found the development process very convenient, so I 
@@ -33,8 +33,6 @@ Lighting & Shadows:
 Particles (2D & 3D):
 <iframe class="small" src="https://www.youtube.com/embed/d0zJSWPXQaQ?si=_QS3zfPNxDQ3HX7y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe class="small" src="https://www.youtube.com/embed/IzAv00Y4xRo?si=K3shU0qNRLg70OhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-![Bloom](/assets/images/vulkan/bloom.png)
 
 # Overview
 
