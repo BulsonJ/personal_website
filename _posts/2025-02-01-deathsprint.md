@@ -7,7 +7,7 @@ category: games
 
 <hr>
 
-I worked as a **Gameplay Programmer** on **DeathSprint 66** from December 2022 to September 2023.
+I worked as a **Gameplay Programmer** on **DeathSprint 66** from December 2022 to September 2023 at Sumo Newcastle.
 
 I was part of the Bachman Racing Prototype Team, which meant I was on the project before it went into full production.
 

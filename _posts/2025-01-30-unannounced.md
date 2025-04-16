@@ -7,7 +7,7 @@ category: games
 
 <hr>
 
-I worked as a **Gameplay Programmer** on an **Unannounced Project** from May 2022 to December 2022.
+I worked as a **Gameplay Programmer** on an **Unannounced Multiplayer Project** from May 2022 to December 2022 at Sumo Newcastle.
 
 This was my first project in the industry. I was part of a small team exploring a concept for a possible future project.
 
