@@ -8,20 +8,24 @@ category: games
 
 <hr>
 
-I am currently working as a **Gameplay Programmer** on **Enginefall**, starting from April 2025.
+I have been working as a **Gameplay Programmer** on **Enginefall** from April 2025, at Red Rover Interactive.
+
+My responsibilities and work includes:
+- Implemented a Tech Tree System and UI. This supported both individual and shared progression. The UI was built to be performant to support large numbers of individual tech-tree nodes.
+- Responsible for building system design and UX improvements including refactoring the building system to support prefabs (collections of building pieces) and making placing objects easier .
+- Created a world marker system which pulls data about points of interest within the game from multiple dynamic and static sources to provide data for an in-game compass and map to use.
+- Reacting quickly and efficiently to player feedback and bug reports from our weekly and public playtests, providing support and workarounds for players.
+- Providing support and mentoring to other programmers, and reviewing their work through code reviews and broader discussions of our technical systems.
 
 <hr>
 
-# Responsibilities
+## Features
 
-My responsibilities included:
-- 
-
-## Tech Tree
+### Tech Tree
 
 Enginefall has a Tech Tree system that can be used to research knowledge and upgrades within the game.
 
-I implemented multiple versions of the front-end UI as the project progressed.
+I was solely responsible for implementing multiple versions of the front-end UI as the project progressed. I also refactored the initial gameplay system to allow for multiple tech-trees, each of which could store progression individiually or shared across a group of players (players who are a part of the same group train).
 
 <figure>
     <div class="figcontent">
@@ -45,7 +49,11 @@ I implemented multiple versions of the front-end UI as the project progressed.
     </figcaption>
 </figure>
 
-I also worked on the gameplay code for the Tech Tree, including refactoring how our systems were setup to allow for Tech Trees to be shared by multiple players (players who are a part of the same group train) so they could all contribute together.
+The UI was complex, involving a large canvas upon which nodes could be placed. Lines were dynamically drawn between nodes.
+
+To ensure that the performance of the Tech-Tree was sufficient, I employed multiple tactics:
+- Widget pooling - Node widgets were created from a widget pool, allowing for UWidgets to be re-used across multiple tech-tree pages, and to avoid the cost of constructing/destructing these widgets repeatedly.
+- Caching of Node Data - Instead of needing to re-construct the tree and the node's state each time the Tech Tree was viewed, I generated the positions of the nodes once, and then cached them off. For their unlock state, this was cached off when any conditions changed, to avoid re-evaluating conditions repeatedly when nothing had changed.
 
 <figure>
     <div class="figcontent">
@@ -69,8 +77,7 @@ I also worked on the gameplay code for the Tech Tree, including refactoring how 
     </figcaption>
 </figure>
 
-
-## World Marker System + Compass
+### World Marker System + Compass
 
 I implemented an in-game compass that lived on the HUD. This showed information such as the front/rear of the train, as well as teammates & other points of interest.
 
@@ -78,13 +85,13 @@ The system that provided the information for these points of interest was develo
 
 Considerations that needed to be made while developing this were the memory and replication requirements for clients. This meant that I developed ways of tracking objects both statically and dynamically, and both replicated by the server and grabbed locally on the client.
 
-## Character + Skins System
+### Character + Skins System
 
 I made multiple improvements to the character system during my time working on Enginefall.
 
 I also worked on the skinning system for weapons + cosmetics, allowing players to choose a skin to craft a weapon with. This meant that we reduced the amount of duplicated gameplay assets within the engine, which had previously caused bugs where gameplay assets that were intended to be simply cosmetic reskins had different behaviour.
 
-## Misc UI
+### Misc UI
 
 <figure>
     <div class="figcontent">
