@@ -2,8 +2,7 @@
 layout: home
 ---
 
-
-Hi there! My name is **Jack Bulson**, I am currently a Gameplay Programmer at Red Rover Interactive. I have **4 years professional experience** working as a **Gameplay Programmer**, primarily in Unreal Engine with C++. 
+Hi there! My name is **Jack Bulson**, I am currently a Senior Gameplay Programmer at Red Rover Interactive. I have over **4 years professional experience** working as a **Gameplay Programmer**, primarily in Unreal Engine with C++.
 
 I have a passion for graphics programming, learning about the rendering pipeline as well as programming materials & shaders. In addition, I enjoy creating fun gameplay mechanics, and working with designers and other disciplines to create the best experience we can for players.
 
