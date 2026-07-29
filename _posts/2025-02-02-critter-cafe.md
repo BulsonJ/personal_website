@@ -7,7 +7,7 @@ category: games
 
 <hr>
 
-I worked as a **Gameplay Programmer** on **Critter Cafe** from September 2023 to December 2024.
+I worked as a **Gameplay Programmer** on **Critter Cafe** from September 2023 to December 2024 at Sumo Newcastle.
 
 My responsibilities included:
 - Implemented the three tools the character can use, the Hammer, the Boomerang and the WingClips. This involved working with design & animation to make them work, make them feel good and make them look good.
