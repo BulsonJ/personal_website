@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "University Graphics"
+title:  "University"
 category: project
 ---
 
