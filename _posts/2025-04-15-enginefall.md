@@ -11,12 +11,13 @@ category: games
 I have been working as a **Gameplay Programmer** on **Enginefall** from April 2025, at Red Rover Interactive.
 
 My responsibilities and work includes:
-- Owned and implemented multiple systems. As part of this, handled scoping out the features, giving feedback on design, and iterating on them from player feedback. 
-- Implemented a tech tree system and UI which supported both individual and shared progression across multiple tech trees. The UI was built to handle large numbers of individual nodes.
-- Created a world marker system which handled data from objects within the game for use on an in-game compass and map. This involved tracking various dynamic and static sources.
+- Owned and implemented multiple systems. As part of this, handled scoping out the features, giving feedback on design, and iterating on them from player feedback.
 - Improved building system; refactored to support prefabs (collections of building pieces), made placing objects easier and refactored build zones to improve UX for design.
-- Helped teach the wider programming team about UI, offering advice and solutions in addition to preparing and delivering presentations to give them an overview of UI in Unreal.
-
+- Fixed character collision bugs by refactoring and simplifying how character collision was handled. - - Implemented a component that managed collision profiles that sorted them by priority.
+- Implemented a tech tree system and UI. This supported player or group progression depending on the tech tree. It was able to support large numbers of nodes across multiple pages.
+- Created a world marker system which handled data from objects within the game for use on an in-game compass and map. This involved tracking various dynamic and static data sources across the server and client, ensuring that any replication cost was kept to a minimum.
+- Refactored how item descriptions worked by implementing a stat system for items, that pulled stats dynamically from the item. This stopped text becoming out of date, improved the workflow as text no longer had to manually be updated, and made it easier to support localisation.
+- Supported the programming team with my UI knowledge, offering advice and solutions in addition to preparing and delivering a presentation to give them an overview of UI in Unreal.
 
 <hr>
 
