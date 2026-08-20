@@ -5,7 +5,7 @@ category: games
 tags:
   - UnrealEngine
   - C++
-  - Multi-player
+  - Multiplayer
 ---
 
 <img class="heading_image" src="/assets/images/games/enginefall.jpg" alt=""/>

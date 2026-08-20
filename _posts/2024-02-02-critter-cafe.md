@@ -5,7 +5,7 @@ category: games
 tags:
   - UnrealEngine
   - C++
-  - Singleplayer
+  - Single-player
 ---
 <img class="heading_image" src="/assets/images/games/critter_cafe.jpeg" alt=""/>
 
