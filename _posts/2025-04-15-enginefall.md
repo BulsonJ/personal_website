@@ -13,8 +13,7 @@ I have been working as a **Gameplay Programmer** on **Enginefall** from April 20
 My responsibilities and work includes:
 - Owned and implemented multiple systems. As part of this, handled scoping out the features, giving feedback on design, and iterating on them from player feedback.
 - Improved building system; refactored to support prefabs (collections of building pieces), made placing objects easier and refactored build zones to improve UX for design.
-- Fixed character collision bugs by refactoring and simplifying how character collision was handled.
-- Implemented a component that managed collision profiles that sorted them by priority.
+- Fixed character collision bugs by refactoring and simplifying how character collision was handled. Implemented a component that managed collision profiles that sorted them by priority.
 - Implemented a tech tree system and UI. This supported player or group progression depending on the tech tree. It was able to support large numbers of nodes across multiple pages.
 - Created a world marker system which handled data from objects within the game for use on an in-game compass and map. This involved tracking various dynamic and static data sources across the server and client, ensuring that any replication cost was kept to a minimum.
 - Refactored how item descriptions worked by implementing a stat system for items, that pulled stats dynamically from the item. This stopped text becoming out of date, improved the workflow as text no longer had to manually be updated, and made it easier to support localisation.
@@ -29,17 +28,6 @@ My responsibilities and work includes:
 Enginefall has a Tech Tree system that can be used to research knowledge and upgrades within the game.
 
 I was solely responsible for implementing multiple versions of the front-end UI as the project progressed. I also refactored the initial gameplay system to allow for multiple tech-trees, each of which could store progression individiually or shared across a group of players (players who are a part of the same group train).
-
-<figure>
-    <div class="figcontent">
-        <div> 
-        <img src="/assets/images/games/enginefall/Tech_Tree_Old_1.png" alt="">
-        </div>
-     </div>
-      <figcaption>
-        <p class="figure-title">Tech Tree (Old Design - no longer in-game)</p>
-    </figcaption>
-</figure>
 
 <figure>
     <div class="figcontent">
