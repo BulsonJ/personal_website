@@ -25,11 +25,11 @@ layout: base
         {% endfor %}
       {%- endif -%}</p>
       {%- if page.tags -%}
+        <p class="post-tag"></p>
         {% for tag in page.tags %}
-        <p class="post-tag">
-            {{ tag }}
-        </p>
+            {{ tag }} 
         {% endfor %}
+        </p>
       {%- endif -%}
   </header>
 
