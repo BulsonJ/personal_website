@@ -29,11 +29,11 @@ layout: base
           <span class="post-meta">{{ post.date | date: date_format }}</span>
           {%- if post.tags -%}
           <span class="tags">
-            <p class="post-tag"></p>
+            <p class="post-tag">
             {% for tag in page.tags %}
               {{ tag }} 
             {% endfor %}
-          </p>
+            </p>
             </span>
           {%- endif -%}
           <div class="post-preview">
