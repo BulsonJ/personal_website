@@ -2,6 +2,9 @@
 layout: post
 title:  "Vulkan Rust Game Engine"
 category: project
+tags:
+  - Rust
+  - Graphics
 ---
 
 <img class="heading_image" src="/assets/images/vulkan/bloom.png" alt=""/>

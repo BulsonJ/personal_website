@@ -2,6 +2,8 @@
 layout: post
 title:  "Untitled Space Shooter"
 category: project
+tags:
+  - Godot
 ---
 <img class="heading_image" src="/assets/images/20210915_space_shooter.png" alt=""/>
 

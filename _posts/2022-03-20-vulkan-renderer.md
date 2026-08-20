@@ -2,6 +2,9 @@
 layout: post
 title:  "First Vulkan Renderer"
 category: project
+tags:
+  - C++
+  - Graphics
 ---
 
 <img class="heading_image" src="/assets/images/vulkan/rendererInitial.png" alt=""/>

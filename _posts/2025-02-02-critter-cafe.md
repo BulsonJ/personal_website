@@ -2,6 +2,10 @@
 layout: post
 title:  "Critter Cafe"
 category: games
+tags:
+  - UnrealEngine
+  - C++
+  - Singleplayer
 ---
 <img class="heading_image" src="/assets/images/games/critter_cafe.jpeg" alt=""/>
 

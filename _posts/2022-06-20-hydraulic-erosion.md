@@ -2,6 +2,9 @@
 layout: post
 title:  "Hydraulic Erosion"
 category: project
+tags:
+  - C++
+  - Graphics
 ---
 
 <img class="heading_image" src="/assets/images/dissertation/results.png" alt=""/>

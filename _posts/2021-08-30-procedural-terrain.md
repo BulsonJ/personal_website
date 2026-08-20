@@ -2,6 +2,8 @@
 layout: post
 title:  "Near Infinite, Procedural Terrain"
 category: project
+tags:
+  - Unity
 ---
 <img class="heading_image" src="/assets/images/procedural-terrain/terrain.png" alt=""/>
 

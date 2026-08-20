@@ -2,6 +2,9 @@
 layout: post
 title:  "DeathSprint 66"
 category: games
+tags:
+  - UnrealEngine
+  - C++
 ---
 <img class="heading_image" src="/assets/images/games/deathsprint.png" alt=""/>
 
