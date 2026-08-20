@@ -30,7 +30,7 @@ layout: base
           {%- if post.tags -%}
           <span class="tags">
             {% for tag in post.tags %}            
-            <p>#{{ tag }}</p>
+            <p class="class="post-tag">{{ tag }}</p>
             {% endfor %}
             </span>
           {%- endif -%}
