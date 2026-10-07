@@ -28,7 +28,7 @@ My responsibilities included:
 <figure>
     <div class="figcontent">
         <div> 
-        <img src="/assets/images/games/critter_cafe/hammer.jpg" altenabled="">
+        <img src="/assets/images/games/critter_cafe/hammer.png" altenabled="">
         </div>
      </div>
          <figcaption>
